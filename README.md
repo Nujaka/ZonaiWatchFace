@@ -1,5 +1,5 @@
-# Zonai Watch Face for devices
-Tears of the Kingdom Zonai themed Galaxy Watch facewatch. This project is to be used by everyone for free.
+# Zonai Watch Face for Wear OS
+Tears of the Kingdom Zonai themed Wear OS facewatch. This project is to be used by everyone for free.
 
 This facewatch was created using Samsung's Watch Face Studion.
 
